@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Owakam
+- 👀 I’m interested in Graphic Design, Data Secience and FP&A
+- 🌱 I’m currently learning Python and Machine Learning
+- 💞️ I’m looking to collaborate on AI and Graphic Design
+- 📫 How to reach me owaka.onyango@gmail.com
